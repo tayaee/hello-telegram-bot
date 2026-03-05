@@ -1,6 +1,7 @@
 # hello telegram bot
 
-## Install Telegram on your mobile phone
+## Install Telegram
+* Install Telegram app on your mobile phone
 
 ## Create a Telegram bot
 * On your Telegram app, talk to `@BotFather`
