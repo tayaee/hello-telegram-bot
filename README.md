@@ -1,4 +1,4 @@
-# hello telegram bot
+# Hello Telegram Bot
 You can send messages to the bot running on your computer.
 
 ## Install Telegram
