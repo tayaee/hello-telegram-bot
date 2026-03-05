@@ -1,4 +1,5 @@
 # hello telegram bot
+You can send messages to the bot running on your computer.
 
 ## Install Telegram
 * Install Telegram app on your mobile phone
